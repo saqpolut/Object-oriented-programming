@@ -1,0 +1,17 @@
+# Сборка и временные файлы
+build/
+bin/
+coverage_reports/
+
+# Данные профилирования и покрытия
+*.gcno
+*.gcda
+*.gcov
+
+# Временные файлы тестов
+*.bin
+*.out
+*.data
+*.txt
+*.puml
+*.sum
